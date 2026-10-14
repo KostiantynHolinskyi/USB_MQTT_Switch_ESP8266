@@ -17,6 +17,6 @@ USB выключатель, позволяет подключать к нему 
 ## Ссылка на проект:
 [СХЕМА И ПЕЧАТНАЯ ПЛАТА:](https://easyeda.com/golinskiy.konstantin/esp-8266_usb_switch/)
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
 
 
